@@ -1,2 +1,2 @@
-# hello-world
+# pytorch-notebooks
 My first repository
